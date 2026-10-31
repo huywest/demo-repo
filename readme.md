@@ -1,3 +1,3 @@
 # Demo
 
-git basic
+git basic.
